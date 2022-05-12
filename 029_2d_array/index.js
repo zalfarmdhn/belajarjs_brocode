@@ -6,6 +6,8 @@ let meats = ["telur", "ayam", "sapi"];
 
 let groceryList = [fruits, vegetables, meats];
 
+groceryList[2][2] = "steak";
+
 
 
 for (let list of groceryList) {
