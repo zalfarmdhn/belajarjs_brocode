@@ -5,7 +5,7 @@ userName ? console.log(`Hello, ${userName}. Mari kita bermain Eight Ball`) :
 
 var userQuestion = "Apakah ...";
 
-console.log("Pertanyaannya adalah: " + userQuestion);
+console.log(`Pertanyaannya adalah: ${userQuestion}`);
 
 var randomNumber = Math.floor(Math.random() * 8);
 
