@@ -21,7 +21,7 @@ contoh kasus sederhana :
 ```
 struktur html sederhana seperti ini, jika direpresentasikan dalam DOM Tree maka akan terlihat seperti ini 
 
-![Hasil DOM Tree.](/dom_tree.png)
+![Hasil DOM Tree.](dom_tree.png)
 
 Ini adalah representasi DOM Tree.
 
@@ -33,7 +33,7 @@ Ini adalah representasi DOM Tree.
 
 ## NodeList VS HTMLCollection
 
-![Hasil DOM Tree.](/dom_tree.png)
+![Hasil DOM Tree.](dom_tree.png)
 
 Perlu diketahui : 
 
@@ -50,7 +50,7 @@ Materi ini cukup penting, karena semua node dalam DOM Tree saling terhubung dan 
 
 > Struktur Hierarki DOM mirip dengan silsilah keluarga, seperti parent & child.
 
-![Hasil DOM Tree.](/dom_tree.png)
+![Hasil DOM Tree.](dom_tree.png)
 
 Semua elemen saling terhubung dalam DOM Tree
 
