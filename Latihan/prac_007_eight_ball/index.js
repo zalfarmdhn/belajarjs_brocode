@@ -3,7 +3,7 @@ var userName = "Zalfa";
 userName ? console.log(`Hello, ${userName}. Mari kita bermain Eight Ball`) :
     console.log('Hello!');
 
-var userQuestion = "Apakah ...";
+var userQuestion = "Apakah besok akan menjadi hari yang baik?";
 
 console.log(`Pertanyaannya adalah: ${userQuestion}`);
 

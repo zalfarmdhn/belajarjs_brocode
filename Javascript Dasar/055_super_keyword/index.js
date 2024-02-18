@@ -33,6 +33,6 @@ const rabbit = new Rabbit("rabbit", 1, 40);
 const fish = new Fish("fish", 2, 80);
 const hawk = new Hawk("hawk", 3, 200);
 
-console.log(hawk.name);
-console.log(hawk.age);
-console.log(hawk.flySpeed);
+console.log(fish.name);
+console.log(fish.age);
+console.log(fish.swimSpeed);

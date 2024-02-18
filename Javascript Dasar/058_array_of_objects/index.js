@@ -7,7 +7,7 @@ class Car {
     }
 
     drive() {
-        console.log(`You drive the ${this.model}`);
+        console.log(`You drive the ${this.model}, Released in ${this.year}`);
     }
 }
 
